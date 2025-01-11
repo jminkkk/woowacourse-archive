@@ -1,6 +1,6 @@
 # 🚀 우아한테크코스 6기 기록
 
-## 우테코 기간 중 작성한 글
+## 블로깅
 
 - [Junit5, AssertJ 새롭게 알게 된 내용들](https://mincanit.tistory.com/55)
 - [static final 변수는 항상 상수일까?](https://mincanit.tistory.com/56)
